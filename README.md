@@ -31,3 +31,6 @@ User data directory: "/home/timlinux/.local/share"
 Updated now to be a little Gnome app:
 
 ![screenshot](screenshot.png)
+
+Tim Sutton
+2024
